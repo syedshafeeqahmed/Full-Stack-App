@@ -1,0 +1,54 @@
+{
+  "admin": [
+    {
+      "id": "shafeeq",
+      "password": "12345"
+    }
+  ],
+  "employees": [
+    {
+      "name": "Prasad",
+      "role": "junior",
+      "id": "2020J001",
+      "dept": "Management",
+      "img": "/Img/employee.jpg"
+    },
+    {
+      "name": "shafeeq",
+      "role": "MD",
+      "id": "2023J001",
+      "dept": "Java Developers",
+      "img": "javanew1.jpg"
+    },
+    {
+      "name": "man",
+      "role": "testing",
+      "id": "2023t001",
+      "dept": "Java Developers",
+      "img": "/img/test5.jpg"
+    }
+  ],
+  "contact": [
+    {
+      "name": "anil ",
+      "email": "faizan@gmail.com",
+      "userID": "456456445",
+      "message": "ij am ok my bro",
+      "id": 1
+    },
+    {
+      "name": "AHMED",
+      "email": "SHAFEEQ@GMAIL.COM",
+      "userID": "S1610125",
+      "message": "I AM SYED SHAFEEQ AHMED FORM GULBARGA KARNATAKA",
+      "id": 2
+    },
+    {
+      "name": "shafeeq",
+      "email": "syedshafeeq2210@gmail.com",
+      "userID": "s1610126",
+      "message": "hey bro how are you ",
+      "id": 3
+    }
+  ]
+}
